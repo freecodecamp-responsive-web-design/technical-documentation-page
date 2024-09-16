@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll create a **Technical Documentation Page** to showcase your ability to build and style documentation pages using **HTML** and **CSS**.
 
+[Technical Documentation Page](https://freecodecamp-responsive-web-design.github.io/technical-documentation-page/)
+
 ## In this project, you will:
 - Design a **documentation page** that organizes technical information into a clear and readable format.
 - Implement **HTML elements** such as headings, paragraphs, lists, and links to structure the content effectively.
